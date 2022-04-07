@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "matrix-determinant", "matrix-determinant\matrix-determinant.csproj", "{BBC699A5-810C-46B8-B2DD-420B9048D53A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBC699A5-810C-46B8-B2DD-420B9048D53A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBC699A5-810C-46B8-B2DD-420B9048D53A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBC699A5-810C-46B8-B2DD-420B9048D53A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBC699A5-810C-46B8-B2DD-420B9048D53A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77F21F95-7691-4A22-AC45-940195B486D0}
+	EndGlobalSection
+EndGlobal
